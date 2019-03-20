@@ -1,0 +1,55 @@
+{
+	"data": [
+
+		{
+			"id": "1",
+			"title": "Lente Pronta Resina Sem AR",
+			"value": "10",
+			"avaiability": "Esf -6.00 até +5.00 Cil até -2.00",
+			"size": "65mm lentes positivas e 70mm lentes negativas"
+		},
+		{
+			"id": "2",
+			"title": "Lente Pronta Resina com AR",
+			"value": "10",
+			"avaiability": "Esf -6.00 até +5.00 Cil até -2.00",
+			"size": "65mm lentes positivas e 70mm lentes negativas"
+		},
+		{
+			"id": "3",
+			"title": "Lente Pronta Resina com Crizal Easy",
+			"value": "10",
+			"avaiability": "Esf -6.00 até +5.00 Cil até -2.00",
+			"size": "65mm lentes positivas e 70mm lentes negativas"
+		},
+		{
+			"id": "4",
+			"title": "Lente Pronta Resina com Crizal Forte",
+			"value": "10",
+			"avaiability": "Esf -6.00 até +5.00 Cil até -2.00",
+			"size": "65mm lentes positivas e 70mm lentes negativas"
+		},
+		{
+			"id": "5",
+			"title": "Lente pronta Resina com Crizal Sapphire",
+			"value": "10",
+			"avaiability": "Esf -6.00 até +5.00 Cil até -2.00",
+			"size": "65mm lentes positivas e 70mm lentes negativas"
+		},
+		{
+			"id": "6",
+			"title": "Lente pronta Resina com Optifog",
+			"value": "10",
+			"avaiability": "Esf -6.00 até +5.00 Cil até -2.00",
+			"size": "65mm lentes positivas e 70mm lentes negativas"
+		},
+		{
+			"id": "7",
+			"title": "Lente pronta Resina com Crizal Prevência",
+			"value": "10",
+			"avaiability": "Esf -6.00 até +5.00 Cil até -2.00",
+			"size": "65mm lentes positivas e 70mm lentes negativas"
+		},
+	]
+
+}
